@@ -1,5 +1,7 @@
 #html Changes#
 
+-Changed the title on line 7 from (website) to (Horiseon).
+
 -Changed the div on line 11 to <header>.
 
 -Changed <div> on line 13 to <nav>.
