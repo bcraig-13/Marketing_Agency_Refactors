@@ -1,1 +1,52 @@
 # Marketing_Agency_Refactors
+#html Changes#
+
+-Changed the div on line 11 to <header>.
+
+-Changed <div> on line 13 to <nav>.
+
+-Put an opening and closing <li> on the same line so it's less cluttered.
+
+-Replaced the <div> on line 21 with <img> and added the css that was attached to the .hero class.
+
+-Added <id="search-engine-optimization"> to the <div> on line 24. The
+
+-Changed <div> to <section> on line 23 to make it more accessible.
+
+-Changed <div> to <article> on lines 24, 34, 44 to make it more accessible.
+
+-Added alt attributes to the <img> tag on line 24, 31, 38, 48, 64, and 69 to make it more accessible.
+
+-Optimized the characters per line of the <p> text. Moved the <p> element inside the parent <h2> element.
+
+-Changed <div> to <aside> on line 54 to make it more accessible.
+
+-Changed <div> to a <article> on lines 55, 62, 68 to make it more accessible.
+
+-Changed the <div> on line 77 to <footer>.
+
+#CSS Changes#
+
+-Removed the period (.) from header class and made each of them normal selectors.
+
+-Changed the selector from div to nav on lines 27, 35, and 39.
+
+-Removed the .hero class. No longer necessary due to the <div> being changed to <img> and the styles included inline.
+
+-Consolidated classes .benefit-lead/brand/cost onto the same styles on lines 89-91.
+
+-Consolidated classes .benefit-lead/brand/cost onto the same styles on lines 96-98.
+
+-Consolidated classes .benefit-lead/brand/cost img onto the same styles on lines 103-105.
+
+-Consolidated classes .search-engine-optimization, .online-reputation-management, .social-media-marketing onto the same styles on lines 111-113.
+
+-Removed the period (.) for the footer class.
+
+-Consolidated classes .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img onto the same lines 122-124.
+
+-Consolidated classes .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 onto the same styles on lines 128-130.
+
+
+
+
